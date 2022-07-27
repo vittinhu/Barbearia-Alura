@@ -76,3 +76,16 @@ nav a:hover{
 	font-weight: bold;
 	margin-top: 10px;
 }
+
+
+footer {
+	text-align: center;
+	background: url("https://live.staticflickr.com/65535/52124393431_aa20678b42_w.jpg");
+   	padding: :40px 0;
+   	}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
